@@ -2,6 +2,7 @@
 public class NewSort {
 	void sort(int arr[])
     {
+		
         int n = arr.length;
  
         // One by one move boundary of unsorted subarray
